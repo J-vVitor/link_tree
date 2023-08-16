@@ -30,8 +30,9 @@ img{ height: 100px;
 
 a{  font-weight: 600px;
    color: #ffffff;
-   font-size: 26px;
-    text-decoration: none;
+   padding-bottom: 10px;
+   font-size: 30px;
+   text-decoration: none;
    margin-right: 60px;
    padding: 2px;
 

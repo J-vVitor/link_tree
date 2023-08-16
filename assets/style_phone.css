@@ -28,6 +28,7 @@
     }
 
     button{
+        right: 10px;
         font-family: Arial, Helvetica, sans-serif;
         width: 320px;
         margin-top: 10px;
@@ -51,7 +52,7 @@
     #redessociais{
         font-family: Arial, Helvetica, sans-serif;
         position: relative;
-        top: 78px;
+        top: 76px;
     }
 
 

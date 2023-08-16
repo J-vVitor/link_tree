@@ -1,0 +1,56 @@
+@media (max-width:700px){
+  
+
+    section{
+        align-items: center;
+        text-align: center;
+    }
+
+    img{
+        margin-top: 10px;
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+    }
+
+    a{ margin-right: 30px;
+        padding: 10px;
+        text-align: justify;
+        text-decoration: none;
+        color: black;
+        background-color: yellow;
+    }
+
+    button{
+        font-family: Arial, Helvetica, sans-serif;
+        width: 400px;
+        left: 50px;
+        border: none;
+        margin-top: 30px;
+        border-radius: 16px;
+        font-size: 27px;
+        padding: 10px;
+        position: relative;
+        display: block;
+    }
+
+    button img{
+        position: relative;
+        text-align: justify;
+        align-items: center;
+        justify-content: center;
+        right: 70px;
+        height: 20px;
+        width: 20px;
+    }
+
+    #redessociais{
+        font-family: Arial, Helvetica, sans-serif;
+        position: relative;
+        top: 130px;
+    }
+
+    h2{
+        color: white;
+    }
+}

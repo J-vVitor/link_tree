@@ -1,4 +1,4 @@
-@media (max-width:700px){
+@media (max-width:600px){
   
 
     section{
@@ -17,17 +17,15 @@
         padding: 10px;
         text-align: justify;
         text-decoration: none;
-        color: black;
-        background-color: yellow;
+
     }
 
     button{
         font-family: Arial, Helvetica, sans-serif;
         width: 400px;
-        left: 50px;
-        border: none;
+        left: 30px;
         margin-top: 30px;
-        border-radius: 16px;
+        border-radius: 8px;
         font-size: 27px;
         padding: 10px;
         position: relative;
@@ -50,7 +48,5 @@
         top: 130px;
     }
 
-    h2{
-        color: white;
-    }
+
 }
